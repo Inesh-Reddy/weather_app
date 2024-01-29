@@ -4,7 +4,7 @@
 This is a simple weather application that fetches and displays weather data for different cities. It's built using Node.js and Express, and it uses the WeatherAPI for fetching the weather data.
 
 ## Features
-- Fetches real-time weather data for any city.
+- Fetches real-time weather data for any city. {https://www.weatherapi.com/api-explorer.aspx}
 - Displays the fetched data in a user-friendly format.
 - Uses async/await and promises for handling API requests.
 
