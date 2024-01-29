@@ -21,9 +21,3 @@ This is a simple weather application that fetches and displays weather data for 
 
 ## Usage
 To use this application, navigate to `http://localhost:3000/weather-India?q=<city-name>` in your browser, replacing `<city-name>` with the name of the city you want to get the weather for.
-
-## Contributing
-If you want to contribute to this project, please feel free to fork the repository, create a feature branch, and then submit a pull request.
-
-## License
-This project is licensed under the MIT License.
